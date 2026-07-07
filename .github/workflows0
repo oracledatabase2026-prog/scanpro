@@ -1,3 +1,0 @@
-unzip scanpro.zip && cd scanpro
-npm install
-npm run dev  
